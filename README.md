@@ -18,8 +18,8 @@
 ## Development
 
 ```
-$ npm install
-$ npm install -g gulp
+$ npm install            # 推荐cnpm install
+$ npm install -g gulp    # 推荐cnpm
 $ gulp
 ```
 
